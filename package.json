@@ -23,7 +23,7 @@
     "scryptsy": "^1.2.1"
   },
   "optionalDependencies": {
-    "scrypt": "^6.0.2"
+    "scrypt": "git+https://github.com/CruzMolina/node-scrypt.git"
   },
   "browser": "js.js",
   "devDependencies": {
